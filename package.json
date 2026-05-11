@@ -1,0 +1,12 @@
+{
+  "name": "crypto-calc-web",
+  "version": "1.0.0",
+  "description": "Node.js server for Crypto Profit/Loss Calculator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
